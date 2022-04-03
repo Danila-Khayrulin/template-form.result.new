@@ -82,7 +82,7 @@
                         id="form_text_5"
                         name="form_text_5"
 					>
-                    	<?= $arResult['arrVALUES'][$name] ?>
+                    	<?= $arResult['arrVALUES']['form_text_5'] ?>
                     </textarea>
                 </label>
             </div>
